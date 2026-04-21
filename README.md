@@ -1,2 +1,2 @@
-# CS231N 学习仓库
-学习 Stanford CS231N Deep Learning for Computer Vision | Spring 2025 的笔记以及代码
+# Deep Learning for Computer Vision 学习仓库
+学习 UMich EECS Deep Learning for Computer Vision 的笔记以及课程代码
